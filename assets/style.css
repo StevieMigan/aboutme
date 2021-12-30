@@ -4,7 +4,11 @@ body {
 
 .profimg {
     border-radius: 20%;
+    border-style: solid;
+    border-width: thick;
+    border-color: hotpink;
     float: left;
+    
 }
 
 h1 {
