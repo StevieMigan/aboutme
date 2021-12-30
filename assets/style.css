@@ -34,7 +34,8 @@ p {
     font-family: 'DotGothic16', sans-serif;
     color: aliceblue;
     font-size: 20px;
-    float: right;
+    text-align: right;
+  
 }
 
 .topnav {
